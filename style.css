@@ -17,14 +17,25 @@ body {
 }
 
 h1 {
+  margin-top: 1rem;
   color: #4a2828;
-  font-size: 2.5rem;
-  font-weight: 700;
+  font-size: 4rem;
+  font-weight: bold;
   text-align: center;
-  margin-bottom: 1rem;
+  margin-bottom: 1px;
   font-family: 'Cormorant Garamond', serif;
 }
 
+h2 {
+  color: #4a2828;
+  font-size: 2rem;
+  font-weight: medium;
+  text-align: center;
+  margin-top: 1px;
+  margin-bottom: 1px;
+  font-family: 'Cormorant Garamond', serif;
+  line-height: 1;
+}
 /* Ocultamos el checkbox feo por completo */
 .replay-trigger {
   display: none;
