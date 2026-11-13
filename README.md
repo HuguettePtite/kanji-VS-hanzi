@@ -11,7 +11,7 @@ La idea principal es acompañar mis artículos con una herramienta visual y did�
 - Distinguir cada trazo de forma intuitiva gracias a una paleta inspirada en *Sakura Branch & Matcha Honey*.
 - Rebobinar y reiniciar la animación con un solo clic sobre la tarjeta.
 
-👉 **[Lee el artículo completo en Substack](#)**
+👉 **[Lee el artículo completo en Substack](https://hugui8b.substack.com/p/shui-dao-qu-cheng?r=7btdxl&utm_campaign=post-expanded-share&utm_medium=web)**
 
 ---
 
