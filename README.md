@@ -2,7 +2,7 @@
 
 ¡Hola! Este repositorio contiene una colección de tarjetas e ideogramas (汉字 / 漢字) construidos vectorialmente con **SVG** y animados con **CSS puro**.
 
-![feed del hanzi](./kanji-VS-hanzi/assets/all.gif)
+![feed del hanzi](./assets/all.gif)
 
 ## 📌 Sobre el proyecto
 
